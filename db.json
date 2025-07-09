@@ -1,0 +1,52 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "name": "Mie Goreng Indomie",
+      "price": 10000,
+      "image": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2020/11/Resep-Indomie-Goreng.jpg?fit=500%2C667&ssl=1"
+    },
+    {
+      "id": 2,
+      "name": "Mie Kuah Indomie",
+      "price": 10000,
+      "image": "https://www.indomie.co.id/Content/Product/Category/indomie-kuah.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nasi Goreng Warnet",
+      "price": 15000,
+      "image": "https://i.pinimg.com/736x/cd/ad/cf/cdadcfac2f198ef73f3bbc1dce403066.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Roti Bakar Coklat",
+      "price": 8000,
+      "image": "https://i.pinimg.com/736x/f5/53/ad/f553ad39705c523987c79085074b6043.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kopi Hitam Sachet",
+      "price": 5000,
+      "image": "https://i.pinimg.com/736x/4c/2a/91/4c2a919bf659bc6f208a894d6e9826a6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Teh Manis Hangat",
+      "price": 5000,
+      "image": "https://i.pinimg.com/736x/62/b4/82/62b482c8b9a28e86078feaf614a0abe8.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Es Teh Manis",
+      "price": 6000,
+      "image": "https://i.pinimg.com/736x/a8/1d/91/a81d91d62435a96f0370c18ecf610707.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Es Kopi Susu",
+      "price": 8000,
+      "image": "https://i.pinimg.com/736x/a8/69/c8/a869c8e07804728d674674302fb68b9a.jpg"
+    }
+  ]
+}
